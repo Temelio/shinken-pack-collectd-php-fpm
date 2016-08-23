@@ -1,0 +1,6 @@
+{
+    "name": "collectd-php-fpm",
+    "description": "Checks to manage our php-fpm collectd checks",
+    "path": "collectd-php-fpm",
+    "macros": {}
+}
